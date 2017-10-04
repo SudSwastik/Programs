@@ -8,7 +8,6 @@ public class CheckForPalindrome {
 		return true;
 	}
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String str = new String("sud-dus");
 		String str1 = new String("sud");
 		System.out.println(isPalindrome(str));
